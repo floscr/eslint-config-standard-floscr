@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-standard-floscr",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Custom adaption of standard eslint config Edit",
   "author": "Florian Schrödl <hello@florianschroedl.com>",
   "license": "MIT",
